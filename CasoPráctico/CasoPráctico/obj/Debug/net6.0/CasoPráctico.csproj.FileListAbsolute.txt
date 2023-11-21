@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\CasoPráctico\CasoPráctico\bin\Debug\net6.0\CasoPráctico.exe
+C:\Users\Dell\source\repos\CasoPráctico\CasoPráctico\bin\Debug\net6.0\CasoPráctico.deps.json
+C:\Users\Dell\source\repos\CasoPráctico\CasoPráctico\bin\Debug\net6.0\CasoPráctico.runtimeconfig.json
+C:\Users\Dell\source\repos\CasoPráctico\CasoPráctico\bin\Debug\net6.0\CasoPráctico.dll
+C:\Users\Dell\source\repos\CasoPráctico\CasoPráctico\bin\Debug\net6.0\CasoPráctico.pdb
+C:\Users\Dell\source\repos\CasoPráctico\CasoPráctico\obj\Debug\net6.0\CasoPráctico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\CasoPráctico\CasoPráctico\obj\Debug\net6.0\CasoPráctico.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\CasoPráctico\CasoPráctico\obj\Debug\net6.0\CasoPráctico.AssemblyInfo.cs
+C:\Users\Dell\source\repos\CasoPráctico\CasoPráctico\obj\Debug\net6.0\CasoPráctico.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\CasoPráctico\CasoPráctico\obj\Debug\net6.0\CasoPráctico.dll
+C:\Users\Dell\source\repos\CasoPráctico\CasoPráctico\obj\Debug\net6.0\refint\CasoPráctico.dll
+C:\Users\Dell\source\repos\CasoPráctico\CasoPráctico\obj\Debug\net6.0\CasoPráctico.pdb
+C:\Users\Dell\source\repos\CasoPráctico\CasoPráctico\obj\Debug\net6.0\CasoPráctico.genruntimeconfig.cache
+C:\Users\Dell\source\repos\CasoPráctico\CasoPráctico\obj\Debug\net6.0\ref\CasoPráctico.dll
